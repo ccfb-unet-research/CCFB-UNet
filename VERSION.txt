@@ -1,0 +1,4 @@
+CCFB-UNet reviewer-defense incremental patch
+Build: 2026-11-06
+Target: CCFB_UNet_DG_full_server (MMSegmentation 0.29.1 / MMCV 1.7.0 / PyTorch 1.10)
+Patch policy: new paths only; no original checkpoint, result, or existing configuration is included.

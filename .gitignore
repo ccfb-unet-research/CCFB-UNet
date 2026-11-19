@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+
+# Datasets and pretrained/trained weights
+data/
+datasets/
+polyp_datasets/
+pretrained_pth/
+*.pth
+*.pt
+*.ckpt
+
+# Experiment products
+work_dirs*/
+dg_results/
+reviewer_results/
+paper_results/
+outputs/
+logs/
+*.log
+*.pid
+*.zip
+*.tar
+*.tar.gz
+
+# Generated predictions
+predictions/
+demo/outputs/
+

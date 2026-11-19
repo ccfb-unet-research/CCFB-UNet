@@ -1,0 +1,10 @@
+CCFB-UNet research code
+Copyright 2026 CCFB-UNet Authors
+
+This product includes software developed by the MMSegmentation Authors
+(https://github.com/open-mmlab/mmsegmentation), licensed under the
+Apache License, Version 2.0.
+
+Files under official_track/ only provide links and setup helpers for
+third-party repositories. Those repositories and their assets remain under
+their respective licenses.

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying CCFB-UNet paper."
+authors:
+  - name: "CCFB-UNet Authors"
+title: "CCFB-UNet: Frequency--Geometry--Semantic Collaboration for Boundary-Faithful Cross-Center Polyp Segmentation"
+type: software
+date-released: 2026-11-19
+license: Apache-2.0
+repository-code: "https://github.com/OWNER/CCFB-UNet"
+abstract: "Research code for CCFB-UNet and controlled cross-center polyp-segmentation experiments."

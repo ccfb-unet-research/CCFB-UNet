@@ -1,0 +1,3 @@
+name	image_dir	label_dir	reporting_role
+PolypGen	/mnt/path/PolypGen/test/images	/mnt/path/PolypGen/test/labels	external_unseen_center
+EndoCV2021	/mnt/path/EndoCV2021/test/images	/mnt/path/EndoCV2021/test/labels	external_unseen_center_or_modality

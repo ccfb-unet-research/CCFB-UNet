@@ -1,6 +1,6 @@
 # CCFB-UNet 复现实验代码
 
-本仓库对应论文 **CCFB-UNet: Frequency--Geometry--Semantic Collaboration for Boundary-Faithful Cross-Center Polyp Segmentation**，包含模型、统一五种子域泛化对比、预训练/不预训练控制、完整消融、五域区域与边界评价、显著性检验、效率统计和结果打包工具。
+本仓库对应论文 **CCFB-UNet: Frequency–Geometry–Semantic Fusion for Cross-Dataset Polyp Segmentation**，包含模型、统一五种子域泛化对比、预训练/不预训练控制、完整消融、五域区域与边界评价、显著性检验、效率统计和结果打包工具。
 
 仓库只发布代码，不包含医学图像数据、PVT 预训练权重、训练 checkpoint、日志或论文未公开的结果。
 

@@ -1,6 +1,6 @@
 # CCFB-UNet
 
-Official research code for **CCFB-UNet: Frequency--Geometry--Semantic Collaboration for Boundary-Faithful Cross-Center Polyp Segmentation**.
+Official research code for **CCFB-UNet: Frequency–Geometry–Semantic Fusion for Cross-Dataset Polyp Segmentation**.
 
 CCFB-UNet couples frequency decoupling (FD-KAN), geometric duality (MGD-Encoder), and global-local semantic fusion (GLS-CAMS). This repository contains the model implementation, a controlled five-seed domain-generalization protocol, matched scratch/pretrained controls, classical and recent DG comparison adaptations, factorial ablations, five-domain evaluation, boundary metrics, statistical tests, efficiency measurement, and result packaging.
 

@@ -6,5 +6,5 @@ title: "CCFB-UNet: Frequency--Geometry--Semantic Collaboration for Boundary-Fait
 type: software
 date-released: 2026-11-19
 license: Apache-2.0
-repository-code: "https://github.com/OWNER/CCFB-UNet"
+repository-code: "https://github.com/lj18798148825-cyber/CCFB-UNet"
 abstract: "Research code for CCFB-UNet and controlled cross-center polyp-segmentation experiments."
